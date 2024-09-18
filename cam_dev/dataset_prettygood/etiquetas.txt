@@ -1,0 +1,154 @@
+imagen_0.jpg: avanzar
+imagen_1.jpg: avanzar
+imagen_2.jpg: avanzar
+imagen_3.jpg: avanzar
+imagen_4.jpg: avanzar
+imagen_5.jpg: avanzar
+imagen_6.jpg: avanzar
+imagen_7.jpg: retroceder
+imagen_9.jpg: retroceder
+imagen_9.jpg: retroceder
+imagen_10.jpg: retroceder
+imagen_11.jpg: retroceder
+imagen_12.jpg: retroceder
+imagen_13.jpg: retroceder
+imagen_14.jpg: retroceder
+imagen_15.jpg: retroceder
+imagen_16.jpg: avanzar
+imagen_17.jpg: avanzar
+imagen_18.jpg: avanzar
+imagen_19.jpg: avanzar
+imagen_20.jpg: avanzar
+imagen_21.jpg: retroceder
+imagen_22.jpg: retroceder
+imagen_23.jpg: retroceder
+imagen_24.jpg: retroceder 
+imagen_25.jpg: retroceder
+imagen_26.jpg: retroceder
+imagen_27.jpg: retroceder
+imagen_28.jpg: retroceder
+imagen_29.jpg: retroceder
+imagen_30.jpg: retroceder
+imagen_31.jpg: retroceder
+imagen_32.jpg: avanzar
+imagen_33.jpg: avanzar
+imagen_34.jpg: avanzar
+imagen_35.jpg: avanzar
+imagen_36.jpg: avanzar
+imagen_37.jpg: avanzar
+imagen_38.jpg: retroceder
+imagen_39.jpg: retroceder
+imagen_40.jpg: retroceder
+imagen_41.jpg: retroceder
+imagen_42.jpg: retroceder
+imagen_43.jpg: retroceder
+imagen_44.jpg: retroceder
+imagen_45.jpg: retroceder
+imagen_46.jpg: retroceder
+imagen_47.jpg: avanzar
+imagen_48.jpg: avanzar
+imagen_49.jpg: avanzar
+imagen_50.jpg: avanzar
+imagen_51.jpg: avanzar
+imagen_52.jpg: avanzar
+imagen_53.jpg: avanzar
+imagen_54.jpg: retroceder
+imagen_55.jpg: retroceder
+imagen_56.jpg: retroceder
+imagen_57.jpg: retroceder
+imagen_58.jpg: retroceder
+imagen_59.jpg: retroceder
+imagen_60.jpg: retroceder
+imagen_61.jpg: retroceder
+imagen_62.jpg: retroceder
+imagen_63.jpg: retroceder
+imagen_64.jpg: avanzar 
+imagen_65.jpg: avanzar
+imagen_66.jpg: avanzar
+imagen_67.jpg: avanzar
+imagen_68.jpg: avanzar
+imagen_69.jpg: retroceder
+imagen_70.jpg: retroceder
+imagen_71.jpg: retroceder
+imagen_72.jpg: retroceder
+imagen_73.jpg: retroceder
+imagen_74.jpg: retroceder
+imagen_75.jpg: retroceder
+imagen_76.jpg: retroceder
+imagen_77.jpg: retroceder
+imagen_78.jpg: retroceder
+imagen_79.jpg: avanzar
+imagen_80.jpg: avanzar
+imagen_81.jpg: avanzar
+imagen_82.jpg: avanzar
+imagen_83.jpg: avanzar
+imagen_84.jpg: avanzar
+imagen_85.jpg: retroceder
+imagen_86.jpg: retroceder
+imagen_87.jpg: retroceder
+imagen_88.jpg: retroceder
+imagen_89.jpg: retroceder
+imagen_90.jpg: retroceder
+imagen_91.jpg: retroceder
+imagen_92.jpg: retroceder
+imagen_93.jpg: avanzar
+imagen_84.jpg: avanzar 
+imagen_95.jpg: avanzar
+imagen_96.jpg: avanzar
+imagen_97.jpg: avanzar
+imagen_98.jpg: avanzar
+imagen_99.jpg: avanzar
+imagen_100.jpg: avanzar
+imagen_101.jpg: retroceder
+imagen_102.jpg: retroceder
+imagen_103.jpg: retroceder
+imagen_104.jpg: retroceder
+imagen_105.jpg: retroceder
+imagen_106.jpg: retroceder
+imagen_107.jpg: retroceder
+imagen_108.jpg: retroceder
+imagen_109.jpg:
+imagen_110.jpg:
+imagen_111.jpg:
+imagen_112.jpg:
+imagen_113.jpg:
+imagen_114.jpg:
+imagen_115.jpg:
+imagen_116.jpg:
+imagen_117.jpg:
+imagen_118.jpg:
+imagen_119.jpg:
+imagen_120.jpg:
+imagen_121.jpg:
+imagen_122.jpg:
+imagen_.jpg:
+imagen_.jpg: 
+imagen_.jpg:
+imagen_.jpg:
+imagen_.jpg:
+imagen_.jpg:
+imagen_.jpg:
+imagen_.jpg:
+imagen_.jpg:
+imagen_.jpg:
+imagen_.jpg:
+imagen_.jpg:
+imagen_.jpg:
+imagen_.jpg:
+imagen_.jpg:
+imagen_.jpg:
+imagen_.jpg:
+imagen_.jpg:
+imagen_.jpg:
+imagen_.jpg:
+imagen_.jpg:
+imagen_.jpg:
+imagen_.jpg:
+imagen_.jpg:
+imagen_.jpg:
+imagen_.jpg:
+imagen_.jpg:
+imagen_.jpg:
+imagen_.jpg:
+imagen_.jpg:
+imagen_.jpg:
