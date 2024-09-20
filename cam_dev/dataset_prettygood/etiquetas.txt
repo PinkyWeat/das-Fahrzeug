@@ -107,48 +107,102 @@ imagen_105.jpg: retroceder
 imagen_106.jpg: retroceder
 imagen_107.jpg: retroceder
 imagen_108.jpg: retroceder
-imagen_109.jpg:
-imagen_110.jpg:
-imagen_111.jpg:
-imagen_112.jpg:
-imagen_113.jpg:
-imagen_114.jpg:
-imagen_115.jpg:
-imagen_116.jpg:
-imagen_117.jpg:
-imagen_118.jpg:
-imagen_119.jpg:
-imagen_120.jpg:
-imagen_121.jpg:
-imagen_122.jpg:
-imagen_.jpg:
-imagen_.jpg: 
-imagen_.jpg:
-imagen_.jpg:
-imagen_.jpg:
-imagen_.jpg:
-imagen_.jpg:
-imagen_.jpg:
-imagen_.jpg:
-imagen_.jpg:
-imagen_.jpg:
-imagen_.jpg:
-imagen_.jpg:
-imagen_.jpg:
-imagen_.jpg:
-imagen_.jpg:
-imagen_.jpg:
-imagen_.jpg:
-imagen_.jpg:
-imagen_.jpg:
-imagen_.jpg:
-imagen_.jpg:
-imagen_.jpg:
-imagen_.jpg:
-imagen_.jpg:
-imagen_.jpg:
-imagen_.jpg:
-imagen_.jpg:
-imagen_.jpg:
-imagen_.jpg:
-imagen_.jpg:
+imagen_109.jpg: desalineado
+imagen_110.jpg: desalineado
+imagen_111.jpg: desalineado
+imagen_112.jpg: desalineado
+imagen_113.jpg: desalineado
+imagen_114.jpg: avanzar
+imagen_115.jpg: desalineado
+imagen_116.jpg: retroceder
+imagen_117.jpg: retrodecer
+imagen_118.jpg: retroceder
+imagen_119.jpg: retroceder
+imagen_120.jpg: retroceder
+imagen_121.jpg: retroceder
+imagen_122.jpg: retroceder
+imagen_123.jpg: retroceder
+imagen_124.jpg: retroceder
+imagen_125.jpg: retroceder
+imagen_126.jpg: desalinedo
+imagen_127.jpg: desalinedo
+imagen_128.jpg: desalinedo
+imagen_129.jpg: desalinedo
+imagen_130.jpg: avanzar
+imagen_131.jpg: retroceder
+imagen_132.jpg: retroceder
+imagen_133.jpg: retroceder
+imagen_134.jpg: retroceder
+imagen_135.jpg: retroceder
+imagen_136.jpg: retroceder
+imagen_137.jpg: retroceder
+imagen_138.jpg: retroceder
+imagen_139.jpg: retroceder
+imagen_140.jpg: retroceder
+imagen_141.jpg: retroceder
+imagen_142.jpg: desalineado
+imagen_143.jpg: desalineado
+imagen_144.jpg: desalineado
+imagen_145.jpg: desalineado
+imagen_146.jpg: desalineado
+imagen_147.jpg: retroceder
+imagen_148.jpg: retroceder
+imagen_149.jpg: retroceder
+imagen_150.jpg: retroceder
+imagen_151.jpg: retroceder
+imagen_152.jpg: retroceder
+imagen_153.jpg: retroceder
+imagen_154.jpg: retroceder
+imagen_155.jpg: retroceder
+imagen_156.jpg: retroceder
+imagen_157.jpg: avanzar
+imagen_158.jpg: avanzar
+imagen_159.jpg: avanzar
+imagen_160.jpg: desalineado
+imagen_161.jpg: desalineado
+imagen_162.jpg: desalineado
+imagen_163.jpg: retroceder
+imagen_164.jpg: retroceder
+imagen_165.jpg: retroceder
+imagen_166.jpg: retroceder
+imagen_167.jpg: retroceder
+imagen_168.jpg: retroceder
+imagen_169.jpg: retroceder
+imagen_170.jpg: retroceder
+imagen_171.jpg: retroceder
+imagen_172.jpg: retroceder
+imagen_173.jpg: desalineado
+imagen_174.jpg: desalineado
+imagen_175.jpg: avanzar
+imagen_176.jpg: avanzar
+imagen_177.jpg: avanzar
+imagen_178.jpg: retroceder
+imagen_179.jpg: retroceder
+imagen_180.jpg: retroceder
+imagen_181.jpg: retroceder
+imagen_182.jpg: retroceder
+imagen_183.jpg: retroceder
+imagen_184.jpg: retroceder
+imagen_185.jpg: retroceder
+imagen_186.jpg: retroceder
+imagen_187.jpg: avanzar
+imagen_188.jpg: desalineado
+imagen_189.jpg: desalineado
+imagen_190.jpg: desalineado
+imagen_191.jpg: desalineado
+imagen_192.jpg: desalineado
+imagen_193.jpg: desalineado
+imagen_194.jpg: retroceder
+imagen_195.jpg: retroceder
+imagen_196.jpg: retroceder
+imagen_197.jpg: retroceder
+imagen_198.jpg: retroceder
+imagen_199.jpg: retroceder
+imagen_200.jpg: retroceder
+imagen_201.jpg: retroceder
+imagen_202.jpg: retroceder
+imagen_203.jpg: desalineado
+imagen_204.jpg: desalineado
+imagen_205.jpg: avanzar
+imagen_206.jpg: avanzar
+imagen_207.jpg: avanzar
