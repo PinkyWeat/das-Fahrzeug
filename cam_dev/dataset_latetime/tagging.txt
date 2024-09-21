@@ -259,3 +259,8 @@ imagen_257.jpg: avanzar
 imagen_258.jpg: avanzar
 imagen_259.jpg: avanzar
 imagen_260.jpg: avanzar
+iimagen_308.jpg: avanzar
+imagen_309.jpg: avanzar
+imagen_310.jpg: avanzar
+imagen_311.jpg: avanzar
+imagen_312.jpg: avanzar
