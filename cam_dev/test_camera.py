@@ -1,3 +1,4 @@
+""" script for saving images from camera """
 import os
 import cv2
 
