@@ -18,7 +18,7 @@ model = tf.keras.models.load_model('coche_autonomo_model.h5')
 logger.info("model loaded successfully")
 
 # configure communication with arduino
-arduino_port = '/dev/ttyACM0'
+arduino_port = '/dev/ttyACM1'
 logger.info(f"configuring communication with Arduino on port {arduino_port}")
 try:
     arduino = serial.Serial(arduino_port, 9600)
