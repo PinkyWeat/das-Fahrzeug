@@ -45,7 +45,7 @@ model = tf.keras.models.Sequential([
     tf.keras.layers.MaxPooling2D(2, 2),
     tf.keras.layers.Flatten(),
     tf.keras.layers.Dense(128, activation='relu'),
-    tf.keras.layers.Dense(3, activation='softmax')  # Tres clases: avanzar, retroceder, parar
+    tf.keras.layers.Dense(3, activation='softmax')  # Three classes: avanzar, retroceder, parar
 ])
 
 # compiling the model
@@ -60,7 +60,7 @@ model.fit(train_generator, epochs=10, validation_data=validation_generator)
 logger.info("Model training completed")
 
 # saving the model omg!!!
-model_save_path = 'coche_autonomo_model.h5'
+model_save_path = 'autonomus_car_model.h5'
 logger.info(f"Saving the model to {model_save_path}")
 model.save(model_save_path)
 logger.info("Model saved successfully")

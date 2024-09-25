@@ -13,8 +13,8 @@ logger = logging.getLogger(__name__)
 logger.info("starting the autonomous car script")
 
 # load the trained model
-logger.info("loading the trained model from 'coche_autonomo_model.h5'")
-model = tf.keras.models.load_model('coche_autonomo_model.h5')
+logger.info("loading the trained model from 'autonomus_car_model.h5'")
+model = tf.keras.models.load_model('autonomus_car_model.h5')
 logger.info("model loaded successfully")
 
 # configure communication with arduino
