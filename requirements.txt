@@ -1,0 +1,6 @@
+gym
+stable-baselines3
+opencv-python-headless
+matplotlib
+numpy
+
