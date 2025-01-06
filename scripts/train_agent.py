@@ -23,7 +23,7 @@ model = DQN(
 )
 
 # trains model
-model.learn(total_timesteps=10000)
+model.learn(total_timesteps=5000)
 
 # saving trained model
 model.save("models/simulated_traffic_light_dqn")
