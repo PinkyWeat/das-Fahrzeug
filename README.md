@@ -11,7 +11,6 @@ Welcome to the das-Fahrzeug repository! This project contains the implementation
 - [Environment Details](#environment-details)
 - [Model Details](#model-details)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Introduction
@@ -57,3 +56,20 @@ The RealTrafficLightEnv class simulates a real traffic light system. It uses a c
 - `0`: Move forward
 - `1`: Move backward
 - `2`: Stop
+
+
+## Methods
+- `__init__(self, render_mode=None)`: Initializes the environment, sets up observation and action spaces, and establishes connections to the camera and Arduino.
+- `reset(self)`: Resets the environment and returns the initial observation.
+- `step(self, action)`: Executes the given action, captures the next observation, calculates the reward, and returns the observation, reward, done flag, and additional info.
+- `close(self)`: Closes the camera connection.
+- `_send_action_to_arduino(self, action)`: Sends the chosen action to the Arduino.
+- `_get_observation(self)`: Captures a frame from the camera, resizes it to 64x64, normalizes it, and returns the observation.
+- `_detect_flag_color(self, observation)`: Detects whether a green or red flag is visible in the given observation.
+- `_compute_reward(self, action, flag_color)`: Calculates the reward based on the correctness of the action versus the detected flag color.
+
+## Model Details
+The `real_traffic_light_dqn.zip` file contains a pre-trained DQN model for the `RealTrafficLightEnv environment`. This model can be used to demonstrate the environment's capabilities and serve as a starting point for further training and experimentation.
+
+## Contributing
+Contributions are welcome! Please fork the repository and submit a pull request with your changes. Ensure that your code adheres to the project's coding standards and includes appropriate tests.
