@@ -38,6 +38,7 @@ To train a new DQN model, use the following command:
 
 
 ## Repository Structure
+- `/legacy_sl`: first das-Fahrzeug try, with supervised learning.
 - `run.py`: Main script to run the environment and interact with the trained model.
 - `train.py`: Script to train a new DQN model for the environment.
 - `realtrafficlightenv.py`: Implementation of the RealTrafficLightEnv class, defining the custom Gym environment.
